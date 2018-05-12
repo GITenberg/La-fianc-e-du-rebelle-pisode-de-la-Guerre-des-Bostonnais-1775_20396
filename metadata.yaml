@@ -1,0 +1,31 @@
+_repo: La-fianc-e-du-rebelle-pisode-de-la-Guerre-des-Bostonnais-1775_20396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marmette, Joseph
+    aliases:
+    - Lepine, Placide
+    - Lépine, Placide
+    birthdate: 1844
+    deathdate: 1895
+    gutenberg_agent_id: '8540'
+    url: http://www.gutenberg.org/2009/agents/8540
+    wikipedia: http://fr.wikipedia.org/wiki/Joseph_Marmette
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20396'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Boston (Mass.) -- History -- Revolution, 1775-1783 -- Fiction'
+title: 'La fiancée du rebelle: Épisode de la Guerre des Bostonnais, 1775'
+url: http://www.gutenberg.org/ebooks/20396
